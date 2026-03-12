@@ -16,3 +16,7 @@
 - `pwd` : Ye dekhne ke liye ki abhi aap kis folder mein ho.
 - `mkdir` : Naya folder banane ke liye.
 - `touch <file-name>` : Nayi khali file banane ke liye.
+touch sail-report.txt: is se nyi file .txt name ki ban gyi
+ls -l sail-report.txt: is se nyi jo bni hai uska permission dekhne keliye.
+chmod 444 sail-report.txt: is se file read only me hojata haiisme edit nhi kar sakte.
+
